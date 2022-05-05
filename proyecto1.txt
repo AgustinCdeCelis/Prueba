@@ -1,7 +1,6 @@
 <<<<<<< HEAD
-Mi nombre es Agustin Cepeda. Soy Sociologo y Peronista.
-=======
-Mi nombre es Agustin Cepeda. Tengo 29 años.
+Mi nombre es Agustin Cepeda. Soy Sociologo y Peroni
+
 
 PEEEEEE ROOOOOONNN PE PE PE PE PE PE
 >>>>>>> cabecera
