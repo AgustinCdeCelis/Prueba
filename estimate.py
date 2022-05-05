@@ -1,6 +1,6 @@
 x=[10,12,9,23,16,14]
 
-
+print("ejercicio")
 
 # def media(x):
 #     sum=0
