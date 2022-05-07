@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Mi nombre es Agustin Cepeda. Soy Sociologo y Peroni
-
-
-PEEEEEE ROOOOOONNN PE PE PE PE PE PE
->>>>>>> cabecera
+Mi nombre es Agustin Cepeda. Soy Sociologo y Peronista.

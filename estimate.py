@@ -1,6 +1,9 @@
-x=[10,12,9,23,16,14]
+# x=[10,12,9,23,16,14]
 
-print("ejercicio")
+import numpy as np
+
+
+# print("ejercicio")
 
 # def media(x):
 #     sum=0
@@ -11,14 +14,14 @@ print("ejercicio")
 
 # print(media(x))
 
-def trimmed_media(x,p):
-    x.sort()
-    sum=0
-    for i in list([p:-p])
-        sum=sum+i
+# def trimmed_media(x,p):
+#     x.sort()
+#     sum=0
+#     for i in list([p:-p])
+#         sum=sum+i
     
-    return sum / (len(list)-2*p)
+#     return sum / (len(list)-2*p)
 
-trimmed_media(x,2)
+# trimmed_media(x,2)
 
 
